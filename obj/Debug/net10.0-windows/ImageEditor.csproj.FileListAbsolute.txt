@@ -1,0 +1,14 @@
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\ImageEditor.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\ImageEditor.AssemblyInfo.cs
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\bin\Debug\net10.0-windows\ImageEditor.exe
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\bin\Debug\net10.0-windows\ImageEditor.deps.json
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\bin\Debug\net10.0-windows\ImageEditor.runtimeconfig.json
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\bin\Debug\net10.0-windows\ImageEditor.dll
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\bin\Debug\net10.0-windows\ImageEditor.pdb
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\ImageEditor.dll
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\refint\ImageEditor.dll
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\ImageEditor.pdb
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\ImageEditor.genruntimeconfig.cache
+C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditor\src\ImageEditor\obj\Debug\net10.0-windows\ref\ImageEditor.dll

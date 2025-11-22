@@ -1,0 +1,5 @@
+BackgroundColor=White
+Language=uk-UA
+DefaultZoom=150
+LastSavePath=C:\Users\Дима\Pictures
+GridVisible=True
